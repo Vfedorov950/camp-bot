@@ -1,0 +1,6 @@
+runtime: python
+python_version: "3.12"
+entrypoint: python bot.py
+resources:
+  cpu: 0.5
+  memory: 512
